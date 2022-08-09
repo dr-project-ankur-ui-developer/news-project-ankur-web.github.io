@@ -561,27 +561,26 @@ footer{
 }
 .top-menu ul li a{
 	color:rgb(146 0 59);
-	font-size: .99rem;
-	font-weight: 400;
+	font-size: .90em;
+	font-weight: 500;
 }
 .achran-focus{
 	border-bottom: 2px solid #ddd;
 	padding-block:.6rem;
 	overflow-x: auto;
 }
-.achran-focus li{
+.achran-focus li:first-child{
 	font-weight: 600;
 	color:#92003b;
-	font-size: 1.3rem;
+	font-size: 1rem;
 	white-space: nowrap;
 }
 .achran-focus li a{
 	color:rgb(146 0 59);
-	font-size: 1rem!important;
+	font-size: .90em!important;
 	margin-inline: .6rem;
+	font-weight: 600;
 }
-
-
 
 	
 	
