@@ -568,6 +568,7 @@ footer{
 	border-bottom: 2px solid #ddd;
 	padding-block:.6rem;
 	overflow-x: auto;
+	white-space: nowrap;
 }
 .achran-focus li:first-child{
 	font-weight: 600;
