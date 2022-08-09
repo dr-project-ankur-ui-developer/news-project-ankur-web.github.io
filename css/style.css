@@ -14,7 +14,7 @@
 	font-family: 'Mukta', sans-serif
 }
 
-body{
+body,html{
 	overflow-x: hidden;
 	font-size: 18px;
 	color:#000;
